@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/栈&amp;队列" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DoublyLinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyArraylist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyBinTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyHashTable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Priority_Queues" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Queue&amp;Stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Twitter_HashTable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Graph" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TripleLinkedList" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
