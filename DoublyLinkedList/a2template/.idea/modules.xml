@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/eclipse_workplace/蓝桥杯练习题/BlueBridge/BlueBridge.iml" filepath="E:/eclipse_workplace/蓝桥杯练习题/BlueBridge/BlueBridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HTMLstudy/HTMLstudy.iml" filepath="$PROJECT_DIR$/../HTMLstudy/HTMLstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mystore(html)/Mystore(html).iml" filepath="$PROJECT_DIR$/../Mystore(html)/Mystore(html).iml" />
+      <module fileurl="file://$PROJECT_DIR$/a2template.iml" filepath="$PROJECT_DIR$/a2template.iml" />
+      <module fileurl="file://E:/eclipse_workplace/蓝桥杯练习题/src/蓝桥杯练习题.iml" filepath="E:/eclipse_workplace/蓝桥杯练习题/src/蓝桥杯练习题.iml" />
+      <module fileurl="file://E:/eclipse_workplace/蓝桥杯练习题/蓝桥杯练习题1.iml" filepath="E:/eclipse_workplace/蓝桥杯练习题/蓝桥杯练习题1.iml" />
+    </modules>
+  </component>
+</project>

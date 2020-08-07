@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/jxl.jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/commons-dbutils-1.7-tests.jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/commons-dbutils-1.7.jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/poi-ooxml-schemas-3.11-20141221.jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/commons-dbutils-1.7-sources.jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/SwingSets3(BeautyEyeLNFDemo).jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/commons-dbutils-1.7-test-sources.jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/mysql-connector-java-5.0.4-bin.jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/poi-3.11-20141221.jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/swingx-core-1.6.2-java7-patched.jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/jacob-1.14.3.jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/poi-examples-3.11-20141221.jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/poi-excelant-3.11-20141221.jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/seaglass-demo.jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/poi-scratchpad-3.11-20141221.jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/audio.jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/commons-dbutils-1.7-javadoc.jar!/" />
+      <root url="jar://E:/eclipse_workplace/StudentManagemant/lib/poi-ooxml-3.11-20141221.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
